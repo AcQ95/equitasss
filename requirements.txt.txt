@@ -1,0 +1,20 @@
+# Equitas Transaction System
+
+## Overview
+
+This is a simple simulation of an Equitas transaction system using Flask. The project demonstrates user registration, initiating transactions, and checking transaction status.
+
+## Features
+
+1. **User Registration**: Simulate the registration of a user with a random user ID.
+2. **Transaction Initiation**: Create a transaction with a random transaction ID, and save the transaction data.
+3. **Transaction Status**: Retrieve the status of a transaction. The status is updated randomly to either "Success" or "Failed".
+
+## Setup
+
+1. **Clone the repository** and navigate to the project folder.
+   
+2. **Create a virtual environment** and activate it:
+
+   ```bash
+   python -m venv venv
