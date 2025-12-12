@@ -1,0 +1,16 @@
+[
+    {
+        "transaction_id": "T1001",
+        "user_id": 12345,
+        "amount": 500,
+        "status": "Pending",
+        "date": "2025-12-01"
+    },
+    {
+        "transaction_id": "T1002",
+        "user_id": 67890,
+        "amount": 1200,
+        "status": "Pending",
+        "date": "2025-12-02"
+    }
+]
